@@ -1,0 +1,19 @@
+@import "~materialize-css/dist/css/materialize.css";
+
+input.gray-input {
+    border-bottom: 1px solid #AAA!important;
+    box-shadow: 0 1px 0 0 #AAA!important ;
+}
+
+input.gray-input + label {
+    color: #AAA!important;
+}
+
+input.gray-input:focus {
+    border-bottom: 1px solid #000!important;
+    box-shadow: 0 1px 0 0 #000!important ;
+}
+
+input.gray-input:focus + label {
+    color: #000!important ;
+}
