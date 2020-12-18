@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc9c3891-5115-4abe-b9a2-51a450a07fd2" name="Default Changelist" comment="" />
+    <list default="true" id="bc9c3891-5115-4abe-b9a2-51a450a07fd2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/link.routes1.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/link.routes1.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/Downloads/mern-full-course-master/app.js" root0="FORCE_HIGHLIGHTING" />
@@ -49,7 +53,14 @@
       <option name="presentableId" value="Default" />
       <updated>1588856119270</updated>
       <workItem from="1588856120817" duration="71570000" />
-      <workItem from="1589475541802" duration="2955000" />
+      <workItem from="1589475541802" duration="3627000" />
+      <workItem from="1589547626106" duration="4954000" />
+      <workItem from="1589556764620" duration="8859000" />
+      <workItem from="1590678585654" duration="3675000" />
+      <workItem from="1591094829455" duration="2711000" />
+      <workItem from="1599846626029" duration="6613000" />
+      <workItem from="1607152323243" duration="11420000" />
+      <workItem from="1607759396997" duration="31407000" />
     </task>
     <servers />
   </component>
@@ -61,10 +72,10 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="721" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588931961471" />
-    <state x="687" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1589477453980">
+    <state x="687" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1590680670812">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="687" y="364" key="com.intellij.ide.util.TipDialog/62.0.1858.1080/-1304.9.1304.768@62.0.1858.1080" timestamp="1589477453980" />
+    <state x="687" y="364" key="com.intellij.ide.util.TipDialog/62.0.1858.1080/-1304.9.1304.768@62.0.1858.1080" timestamp="1590680670812" />
     <state x="647" y="250" key="run.anything.popup" timestamp="1589274346781">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
@@ -73,16 +84,5 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="654" y="235" width="672" height="678" key="search.everywhere.popup/-1304.0.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1588860183364" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="javascript">
-          <url>file://$PROJECT_DIR$/routes/link.routes.js</url>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
